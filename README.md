@@ -1,10 +1,11 @@
-# Hi there :wave:, I'm Ola Hamid!
-Smart Contract Developer | Security Researcher | Auditor
+# Hi there 👋, I'm Ola Hamid!  
+Smart Contract Developer | Security Researcher | Auditor  
 
-## :rocket: About Me
-- :telescope: Building [Monadex](https://www.monadex.exchange/) on Monad L1.
-- :seedling: Currently learning Vyper(python), auditing techniques and exploring RWA, tokenization & programmable derivative.
-- :man_construction_worker: you will probrably find me building on monadex:tools:, or auditing on platforms like sherlock, CodeHawk, code4rena... 
-- :speech_balloon: Ask me about debugging, auditing, tokenisation, DeFi or blockchain development.
-- :zap: Favorite Quote: "THIS IS THE WAY."
-- :globe_with_meridians: say Hi please: https://linktr.ee/Olahamid
+## 🚀 About Me  
+- 🔭 Building [Monadex](https://www.monadex.exchange/) on Monad L1.  
+- 🌱 Currently learning Vyper (Python), smart contract architecture, auditing techniques, and exploring RWA, tokenization, & programmable derivatives.  
+- 🛠️ You will probably find me building on Monadex, or auditing on platforms like Sherlock 🔍, CodeHawk 🦅, Code4rena ⚔️...  
+- 💬 Ask me about debugging, auditing, tokenization, DeFi, or blockchain development.  
+- 🎾 **Fun Fact**: love playing sports, tennis! 
+- ⚡ Favorite Quote: "THIS IS THE WAY."  
+- 🌐 Say Hi: [Linktree](https://linktr.ee/Olahamid)
